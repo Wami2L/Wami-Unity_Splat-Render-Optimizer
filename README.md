@@ -1,4 +1,4 @@
-# Wami Splat Optimizer
+# Wami Splat Optimizer And Render For Unity
 
 **Gaussian Splatting rápido para Unity y VR** · *Fast Gaussian Splatting for Unity and VR*
 
